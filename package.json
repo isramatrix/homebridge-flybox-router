@@ -1,5 +1,4 @@
 {
-  "private": true,
   "displayName": "Flybox Router",
   "name": "homebridge-flybox-router",
   "version": "0.0.1",
